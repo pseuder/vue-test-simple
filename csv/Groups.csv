@@ -1,0 +1,9 @@
+1,administrator,管理員,"{""region"":[1,2,3],""product"":[""ezCAM"",""ezCAT"",""ezPlan"",""ezDI"",""ezTool"",""Quote""],""operator"":[""使用者權限"",""下載權限"",""產品權限"",""區域權限""]}",,"[1, 2, 5]"
+2,taiwan,台灣,"{""region"":[1],""product"":[""ezCAM"",""ezCAT"",""ezDI"",""ezPlan"",""ezTool"",""Quote""],""operator"":[]}",,"[1, 6, 5, 4, 9]"
+3,east-china,華東,"{""region"":[2],""product"":[""ezCAM"",""ezCAT"",""ezDI"",""ezPlan"",""ezTool"",""Quote""],""operator"":[]}",,"[8, 9]"
+4,south-china,華南,"{""region"":[3],""product"":[""ezCAM"",""ezCAT"",""ezDI"",""ezPlan"",""ezTool"",""Quote""],""operator"":[]}",,"[1, 9]"
+5,product-verification,審核-產品,"{""region"":[1,2,3],""product"":[""ezCAM"",""ezCAT"",""ezDI"",""ezPlan"",""ezTool"",""Quote""],""operator"":[]}",,"[1, 2, 5, 6, 9]"
+6,finance-verification,審核-財務,,"出貨, 正式, 永久需驗證","[1, 2, 5]"
+7,Error notification,報錯訊息通知,,在報錯時將錯誤訊息寄到RD信箱,"[5,2,1]"
+8,notice_expires,定時提醒即將過期,,,[4]
+9,test-verification,測試群組,,審核測試用,[9]

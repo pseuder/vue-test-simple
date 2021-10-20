@@ -1,0 +1,76 @@
+1,Can add log entry,1,add_logentry
+2,Can change log entry,1,change_logentry
+3,Can delete log entry,1,delete_logentry
+4,Can view log entry,1,view_logentry
+5,Can add permission,2,add_permission
+6,Can change permission,2,change_permission
+7,Can delete permission,2,delete_permission
+8,Can view permission,2,view_permission
+9,Can add group,3,add_group
+10,Can change group,3,change_group
+11,Can delete group,3,delete_group
+12,Can view group,3,view_group
+13,Can add user,4,add_user
+14,Can change user,4,change_user
+15,Can delete user,4,delete_user
+16,Can view user,4,view_user
+17,Can add content type,5,add_contenttype
+18,Can change content type,5,change_contenttype
+19,Can delete content type,5,delete_contenttype
+20,Can view content type,5,view_contenttype
+21,Can add session,6,add_session
+22,Can change session,6,change_session
+23,Can delete session,6,delete_session
+24,Can view session,6,view_session
+25,Can add application,7,add_application
+26,Can change application,7,change_application
+27,Can delete application,7,delete_application
+28,Can view application,7,view_application
+29,Can add customers,8,add_customers
+30,Can change customers,8,change_customers
+31,Can delete customers,8,delete_customers
+32,Can view customers,8,view_customers
+33,Can add edit,9,add_edit
+34,Can change edit,9,change_edit
+35,Can delete edit,9,delete_edit
+36,Can view edit,9,view_edit
+37,Can add groups,10,add_groups
+38,Can change groups,10,change_groups
+39,Can delete groups,10,delete_groups
+40,Can view groups,10,view_groups
+41,Can add info,11,add_info
+42,Can change info,11,change_info
+43,Can delete info,11,delete_info
+44,Can view info,11,view_info
+45,Can add modules,12,add_modules
+46,Can change modules,12,change_modules
+47,Can delete modules,12,delete_modules
+48,Can view modules,12,view_modules
+49,Can add options,13,add_options
+50,Can change options,13,change_options
+51,Can delete options,13,delete_options
+52,Can view options,13,view_options
+53,Can add product_groups,14,add_product_groups
+54,Can change product_groups,14,change_product_groups
+55,Can delete product_groups,14,delete_product_groups
+56,Can view product_groups,14,view_product_groups
+57,Can add products,15,add_products
+58,Can change products,15,change_products
+59,Can delete products,15,delete_products
+60,Can view products,15,view_products
+61,Can add region,16,add_region
+62,Can change region,16,change_region
+63,Can delete region,16,delete_region
+64,Can view region,16,view_region
+65,Can add sn,17,add_sn
+66,Can change sn,17,change_sn
+67,Can delete sn,17,delete_sn
+68,Can view sn,17,view_sn
+69,Can add updatetime,18,add_updatetime
+70,Can change updatetime,18,change_updatetime
+71,Can delete updatetime,18,delete_updatetime
+72,Can view updatetime,18,view_updatetime
+73,Can add users,19,add_users
+74,Can change users,19,change_users
+75,Can delete users,19,delete_users
+76,Can view users,19,view_users
